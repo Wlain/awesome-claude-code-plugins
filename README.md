@@ -200,6 +200,7 @@ Install or disable them dynamically with the `/plugin` command — enabling you 
 - [session-tax](./plugins/session-tax)
 
 ### Audio & Media
+- [Kling AI (Global)](https://github.com/klingai-tech/claude-plugin) - Official Claude plugin for image and video workflows via the hosted [Kling MCP](https://kling.ai/mcp/plugin); OAuth and paid credits required.
 - [bibigpt-skill](https://github.com/JimmyLv/bibigpt-skill) - AI-powered video, audio & podcast summarization
 
 ### Design UX
