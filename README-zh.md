@@ -228,6 +228,8 @@
 
 
 ### MCP 服务器
+- [Kling AI Global Plugin](https://github.com/klingai-tech/claude-plugin) — 官方 Claude Code 插件，连接 Global MCP 端点（`https://kling.ai/mcp/plugin`），支持图片生成与编辑（含可灵图片 4.0）、视频生成、主体（Elements）、动作控制和任务查询。
+- [Kling AI China Plugin](https://github.com/klingai-tech/claude-plugin-cn) — 官方 Claude Code 中国区插件，连接中国区 MCP 端点（`https://klingai.com/mcp/plugin`），使用中国区 OAuth 与积分；支持图片生成与编辑、视频生成、主体（Elements）、动作控制和任务查询。
 - [WhichModel](https://github.com/Which-Model/whichmodel-mcp) — 面向 Claude Code 的 AI 模型定价与推荐 MCP 服务器，帮助为每项任务选择最合适、性价比最高的模型。数据经交叉验证，每 4 小时更新一次。MCP 端点：`https://whichmodel.dev/mcp`
 
 ## 插件市场
