@@ -201,6 +201,7 @@ Install or disable them dynamically with the `/plugin` command — enabling you 
 
 ### Audio & Media
 - [bibigpt-skill](https://github.com/JimmyLv/bibigpt-skill) - AI-powered video, audio & podcast summarization
+- [Kling AI](https://github.com/klingai-tech/claude-plugin) - Official Claude Code plugin for generating and editing images, creating videos, managing Elements, motion control, and task tracking through Kling’s OAuth-protected Global MCP. Install with `claude plugin install kling-ai@klingai`.
 
 ### Design UX
 - [brand-guardian](./plugins/brand-guardian)
