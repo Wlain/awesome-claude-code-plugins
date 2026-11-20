@@ -368,6 +368,8 @@ Install or disable them dynamically with the `/plugin` command — enabling you 
 - [agent-safety-preflight](./plugins/agent-safety-preflight)
 
 ### MCP Servers
+- [Kling AI (Global) Plugin](https://github.com/klingai-tech/claude-plugin) — Official Global-region OAuth MCP plugin for Claude Code, with image/video generation and task workflows. Endpoint: `https://kling.ai/mcp/plugin`; npm: [`@klingai/plugin-global`](https://www.npmjs.com/package/@klingai/plugin-global) · [`@klingai/cli-global`](https://www.npmjs.com/package/@klingai/cli-global). Uses a Global-region Kling account and credits.
+- [Kling AI (China) Plugin](https://github.com/klingai-tech/claude-plugin-cn) — Official China-region OAuth MCP plugin for Claude Code, with image/video generation and task workflows. Endpoint: `https://klingai.com/mcp/plugin`; npm: [`@klingai/plugin-cn`](https://www.npmjs.com/package/@klingai/plugin-cn) · [`@klingai/cli-cn`](https://www.npmjs.com/package/@klingai/cli-cn). Uses a China-region Kling account and credits.
 - [AccInt](https://github.com/maxbaluev/accreted-intelligence) — Local-first Work Model MCP server and Claude Code/Codex/OpenCode plugin. Tools: `acc_retrieve`, `acc_act`; official registry `io.github.maxbaluev/accint`.
 - [lazymac/mcp](https://github.com/lazymac2x/lazymac-mcp) — Unified MCP server exposing 42+ developer tools (qr, ip-geo, ai-cost, llm-router, k-privacy, korean-nlp) backed by Cloudflare Workers. `npx -y @lazymac/mcp`
 - [lazymac/k-mcp](https://github.com/lazymac2x/lazymac-k-mcp) — Korean wedge MCP — PIPA compliance, KRW + BOK rates, 사업자등록번호 lookup, address geocoding, NLP. `npx -y @lazymac/k-mcp`
